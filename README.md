@@ -1,8 +1,8 @@
-# Image-Puzzle_Solver
-**Programmer: Bhajneet Singh Bedi**
-Hi!!
-This here is my first project with python and with open cv.
-This project uses very basic concepts of programming and using images.
+# Image-Puzzle_Solver<br>
+**Programmer: Bhajneet Singh Bedi**<br>
+Hi!!<br><br>
+This here is my first project with python and with open cv.<br>
+This project uses very basic concepts of programming and using images.<br>
 
 
 
